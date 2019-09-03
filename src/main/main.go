@@ -9,7 +9,7 @@ type Pet struct {
   Age int
 }
 
-const PI = 3.1415
+const PI = 3.14
 
 func main() {
   fmt.Println("Hello World")
